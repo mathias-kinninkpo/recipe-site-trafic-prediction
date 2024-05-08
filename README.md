@@ -1,0 +1,1 @@
+#### In this project, I trained a machine learning model that can predict weather a recipe will be high trafficked or not. This project was done as part of my data scientist Professional certificate on datacamp
